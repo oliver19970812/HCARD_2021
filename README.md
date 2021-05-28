@@ -23,6 +23,6 @@ Bobath_arm_leg
 ## Authors
 
 * **Xinyang Sun** - [Xinyang Sun](https://github.com/Xinyang-S)
-* **Dong Chen**
+* **Dong Chen** - [Dong Chen](https://github.com/oliver19970812)
 * **Denis Sokolov**
 * **Qianmeng Liang**
